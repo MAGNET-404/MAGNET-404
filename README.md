@@ -17,10 +17,6 @@
  <img src="https://profile-counter.glitch.me/MAGNET-404/count.svg" />
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/MAGNET-404/MAGNET-404/main/Screenshot_20221104_013930.jpg)
-
-![20200808_160757](https://raw.githubusercontent.com/MAGNET-404/MAGNET-404/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
-
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
@@ -28,13 +24,6 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 =[🌺]= 𝙽𝙰𝙼𝙴 <> 𝚃𝙰𝙺𝙱𝙸𝚁 𝙸𝚂𝙻𝙰𝙼
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -54,20 +43,14 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 =[🌺]= 𝙵𝚄𝙽 𝙵𝙰𝙲𝚃 <> 𝙸 𝚃𝙷𝙸𝙽𝙺 𝙸 𝙰𝙼 𝙵𝚄𝙽𝙽𝚈 🙂
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
-[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://niki404.cyber)
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ok.tata.good.bye.gaya)
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ok.tata.good.bye.gaya)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/YourRealPapa404)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/YourRealPapa404)
 
 ### &nbsp;=[🍀]= 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 =[🍀]=
 
@@ -102,17 +85,3 @@
 <br>
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
-
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MAGNET-404&theme=react-dark&area=true&hide_border=true)](https://github.com/MAGNET-404/github-readme-activity-graph)
-
-<a href="https://github.com/MAGNET-404/PK-CRACK.git"><img title="PK-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=PK-CRACK&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/BD-CRACK.git"><img title="BD-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=BD-CRACK&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/HACK-PRO.git"><img title="HACK-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=HACK-PRO&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/DUMP-ID.git"><img title="DUMP-ID" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=DUMP-ID&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/P-Crack.git"><img title="P-Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=P-Crack&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/NUMBER-ID-CLONER.git"><img title="NUMBER-ID-CLONER" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=NUMBER-ID-CLONER&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/x5-UID-PRO.git"><img title="x5-UID-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=x5-UID-PRO&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/R-Mail-Crack.git"><img title="R-Mail-Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=R-Mail-Crack&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/N-Crack-Pro.git"><img title="N-Crack-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=N-Crack-Pro&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/Crack-Pro.git"><img title="Crack-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=Crack-Pro&theme=gotham"></a>
-<a href="https://github.com/MAGNET-404/X-Power-Pro.git"><img title="X-Power-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MAGNET-404&repo=X-Power-Pro&theme=gotham"></a>
